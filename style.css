@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-family: "poppins", sans-serif;
+}
+li{
+    display: inline;
+    margin-right: 20px;
+    margin-left: 20px;
+    font-size: 1rem;
+    color: #ffffff;
+    cursor: pointer;
+}
+ul{
+    text-align: end;
+}
+div{
+    background-color: #000000;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+div:hover{
+    background-color: #808080;
+}
+li:hover{
+    color: lightcoral;
+}
+selector:hover {
+    cursor: pointer;
+}
